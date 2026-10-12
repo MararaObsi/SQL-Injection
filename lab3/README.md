@@ -46,7 +46,8 @@ During this lab, I mastered advanced usage of **Burp Suite Professional/Communit
 
 Below is the verified screenshot demonstrating the successful exploitation of the path traversal flaw and extraction of the `/etc/passwd` document.
 
-![Path Traversal Lab Success](./images/screenshot.png)
+![Portswigger/lab3](./images/pathtraversalresponse.png)
+![Portswigger/lab3](./images/pathtraverse.png)
 
 ---
 
