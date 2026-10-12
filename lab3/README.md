@@ -48,6 +48,7 @@ Below is the verified screenshot demonstrating the successful exploitation of th
 
 ![Portswigger/lab3](./images/pathtraversalresponse.png)
 ![Portswigger/lab3](./images/pathtraverse.png)
+![Portswigger/lab3](./images/pathtraversal.png)
 
 ---
 
